@@ -1,4 +1,4 @@
-# Kraina Szczęścia Site Build on Wordpress
+# Fictitious University Site Build on Wordpress
 
 Website of a fictitious university realized during the course.
 
