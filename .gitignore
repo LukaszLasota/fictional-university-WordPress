@@ -1,0 +1,6 @@
+### ignore specific themes ###
+themes/twentytwenty
+themes/twentytwentyone
+
+### ignore node dependency directories ###
+themes/fictional-university-theme/node_modules/
