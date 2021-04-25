@@ -1,6 +1,6 @@
-# Fictitious University Site Build on Wordpress
+# Fictional University Site Build on Wordpress
 
-Website of a fictitious university realized during the course. Live version:
+Website of a fictional  university realized during the course. Live version:
 https://fictional-university.lukaszla.vot.pl/ 
 
 ===
